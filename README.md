@@ -17,11 +17,11 @@
 
 Стартовое меню:
 
-![image](https://github.com/Nico-kun123/EShop-Parser/assets/77405288/2bea3776-2b77-491c-a6da-95175e9df46e)
+![image](https://raw.githubusercontent.com/German-D/tg_credit_cards/main/menu.png)
 
 После выбора карты Visa:
 
-![image](https://github.com/Nico-kun123/EShop-Parser/assets/77405288/dceaaba1-869b-4f1d-81e5-2371ab1203ef)
+![image](https://raw.githubusercontent.com/German-D/tg_credit_cards/main/visa.png)
 
 ---
 
