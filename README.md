@@ -38,7 +38,7 @@ git clone git@github.com:German-D/tg_credit_cards.git
 Создать бота и через [@BotFather](https://t.me/BotFather) и вставить в проекте свой токен от бота
 
 Создаём виртуальное окружение внутри папки проекта.
-Далее команды для MacOS (для windows: https://realpython.com/python-virtual-environments-a-primer/#create-it)
+Далее команды для MacOS (для windows инуструкция [есть вот тут](https://realpython.com/python-virtual-environments-a-primer/#create-it))
 
 ``` markdown
 python3 -m venv venv
