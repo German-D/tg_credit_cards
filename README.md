@@ -40,15 +40,37 @@
 ```markdown
 git clone git@github.com:German-D/tg_credit_cards.git
 ```
-Устанавливаем все необходимые компоненты:
+Создать бота и через [@BotFather](https://t.me/BotFather) и вставить в проекте свой токен от бота
+
+Создаём виртуальное окружение внутри папки проекта.
+Далее команды для MacOS (для windows: https://realpython.com/python-virtual-environments-a-primer/#create-it)
 
 ``` markdown
-pip install pyTelegramBotAPI
+python3 -m venv venv
 ```
 
 ``` markdown
-pip install faker
+source venv/bin/activate
 ```
+
+``` markdown
+source venv/bin/activate
+```
+Устанавливаем библиотеки
+
+``` markdown
+python3 -m pip install pyTelegramBotAPI
+```
+
+``` markdown
+python3 -m pip install faker
+```
+
+Запускаем
+``` markdown
+python3 card_bot.py
+```
+
 ## Автор
 
 Дольников Герман (Телеграм @dolnikov)
