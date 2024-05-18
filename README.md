@@ -17,11 +17,11 @@
 
 Стартовое меню:
 
-![image](https://raw.githubusercontent.com/German-D/tg_credit_cards/main/menu.png)
+![image](https://raw.githubusercontent.com/German-D/tg_credit_cards/main/bot_menu.png)
 
 После выбора карты Visa:
 
-![image](https://raw.githubusercontent.com/German-D/tg_credit_cards/main/visa.png)
+![image](https://raw.githubusercontent.com/German-D/tg_credit_cards/main/visa_card.png)
 
 ---
 
