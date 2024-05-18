@@ -47,10 +47,6 @@ python3 -m venv venv
 ``` markdown
 source venv/bin/activate
 ```
-
-``` markdown
-source venv/bin/activate
-```
 Устанавливаем библиотеки
 
 ``` markdown
